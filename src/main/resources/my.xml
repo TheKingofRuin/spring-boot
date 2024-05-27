@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<users>
+    <user id="1">
+        <name>lyz</name>
+        <gender>男</gender>
+        <学习>5 &lt; 4</学习>
+    </user>
+    <data>
+        <![CDATA[
+            3>5 && 4
+        ]]>
+    </data>
+</users>
